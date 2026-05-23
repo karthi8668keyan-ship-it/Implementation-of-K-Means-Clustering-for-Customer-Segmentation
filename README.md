@@ -17,11 +17,11 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 4.Plot the clustered customers and display the cluster centroids on the graph.
 ## Program:
 ```
-/*
+
 Program to implement the K Means Clustering for Customer Segmentation.
 Developed by: KARTHIKEYAN A
 RegisterNumber:  212225230131
-*/
+
 ```
 ```
 
