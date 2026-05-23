@@ -9,8 +9,11 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 ## Algorithm
 1. Import the required libraries and load the customer dataset.
+
 2.Select Annual Income and Spending Score as input features for clustering.
+
 3.Apply the K-Means algorithm to divide customers into 5 clusters.
+
 4.Plot the clustered customers and display the cluster centroids on the graph.
 ## Program:
 ```
